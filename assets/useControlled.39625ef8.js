@@ -1,1 +1,0 @@
-import{r as e}from"./index.b1762e85.js";function i({controlled:t,default:a,name:c,state:f="value"}){const{current:s}=e.exports.useRef(t!==void 0),[o,u]=e.exports.useState(a),n=s?t:o,r=e.exports.useCallback(l=>{s||u(l)},[]);return[n,r]}export{i as u};
