@@ -1,0 +1,1 @@
+import{j as t}from"./index.42ecc71a.js";function s(){return t("div",{children:t("script",{async:!0,src:"https://comments.app/js/widget.js?3","data-comments-app-website":"yJfpKRuA","data-limit":"100","data-colorful":"1"})})}export{s as default};
