@@ -1,16 +1,22 @@
 {
     "id": "EI1",
-    "registered": 12,
+    "registered": 122,
     "eName": "AIEEA",
     "tName": "AIEEA-UG",
-    "title": "General Knowledge",
-    "about": "Covers basic knowledge",
-    "description": "This course is same as demo test, Please dont purchase this, Try demo test instead",
+    "title": "Current Affairs 2023",
+    "about": "Agriculture Current Affairs Quiz",
+    "description": "**Welcome to our Agriculture Current Affairs Quiz!** Stay up to date with the latest happenings in the world of agriculture with this informative quiz. Test your knowledge on recent developments, policies, and trends that are shaping the agricultural sector. \n - Explore the impact of climate change on agriculture and learn about sustainable practices being adopted to mitigate its effects.\n - Discover advancements in technology, such as precision farming, robotics, and artificial intelligence, that are revolutionizing the way we cultivate crops and raise livestock.\n - Stay informed about global food security issues and initiatives taken to ensure a steady and reliable food supply. \n - Understand the importance of regenerative agriculture and organic farming in promoting environmental sustainability and preserving soil health.\n - Learn about the challenges faced by farmers, including access to credit, market fluctuations, and the impact of trade policies.\n - Stay updated on government schemes and subsidies aimed at supporting agricultural growth and rural development.\n - Discover the role of biotechnology in crop improvement and genetic engineering in developing disease-resistant and high-yielding varieties.\n - Stay informed about the latest research and innovations in pest management, water conservation, and post-harvest technologies.\n\n Whether you are a student, farmer, policymaker, or agriculture enthusiast, this quiz will keep you informed and engaged with the current affairs in agriculture. So, get ready to test your knowledge and gain valuable insights into the dynamic and ever-evolving field of agriculture!",
     "price": 100,
     "rating": 4,
     "bestSeller": false,
     "language": ["English"],
     "tests": [
-        ["Test 1", 16, 1]
+        ["January Current Affairs", 90, 45],
+        ["February Current Affairs", 90, 45],
+        ["March Current Affairs", 90, 45],
+        ["April Current Affairs", 90, 45],
+        ["May Current Affairs", 90, 45],
+        ["June Current Affairs", 90, 45],
+        ["July Current Affairs", 90, 45]
     ]
 }

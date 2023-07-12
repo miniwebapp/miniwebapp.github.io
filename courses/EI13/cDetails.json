@@ -1,16 +1,16 @@
 {
-    "id": "EI2",
-    "registered": 0,
-    "eName": "AIEEA",
-    "tName": "AIEEA-UG",
-    "title": "General Knowledge",
-    "about": "Covers basic knowledge",
-    "description": "This course is same as demo test, Please dont purchase this, Try demo test instead",
-    "price": 100,
+    "id": "EI13",
+    "registered": 1,
+    "eName": "ICAR-AIEEA-PG",
+    "tName": "Agricultural Engineering & Technology",
+    "title": "Agricultural Engineering & Technology",
+    "about": "ICAR JRF Papers",
+    "description": "**ICAR AIEEA previous year question papers** allow the candidates to understand the paper pattern and important topics or questions about the ICAR AIEEA exam. **ICAR AIEEA PG Question Papers** will help a lot in the exam preparation.",
+    "price": 10,
     "rating": 4,
     "bestSeller": false,
     "language": ["English"],
     "tests": [
-        ["Test 1", 120, 30]
+        ["2022 Paper", 120, 120]
     ]
 }

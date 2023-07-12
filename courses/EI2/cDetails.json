@@ -1,16 +1,33 @@
 {
-    "id": "EI2",
-    "registered": 0,
-    "eName": "AIEEA",
-    "tName": "AIEEA-UG",
-    "title": "demo",
-    "about": "demo basic knowledge",
-    "description": "This course is same as demo test, Please dont purchase this, Try demo test instead",
-    "price": 100,
-    "rating": 4,
-    "bestSeller": false,
-    "language": ["English"],
-    "tests": [
-        ["Test 1", 120, 30]
-    ]
+ "id": "EI2",
+ "registered": 209,
+ "eName": "AIEEA",
+ "tName": "AIEEA-UG",
+ "title": "General agriculture",
+ "about": "MCQ from Nem Raj Sunda",
+ "description": "**General Agriculture Quiz: Insights from 'A Competitive Book of Agriculture' by Nemraj Sunda**\n\n Welcome to our General Agriculture Quiz, inspired by the valuable insights from '\n A Competitive Book of Agriculture ' by Nemraj Sunda. This quiz will test your knowledge on various aspects of agriculture, covering a wide range of topics. \n\n - Gain an understanding of the fundamentals of agriculture, including crop cultivation, soil management, and animal husbandry.\n - Explore different farming systems, such as organic farming, integrated farming, and hydroponics, and learn about their benefits and challenges.\n - Discover the principles of crop production, including crop rotation, crop protection, and nutrient management.\n - Learn about the various types of agricultural machinery and equipment used for farming operations.\n - Understand the importance of irrigation and water management in agriculture, including different irrigation methods and water conservation techniques.\n - Dive into the world of livestock farming, including breeds, housing, feeding, and healthcare practices.\n - Explore agricultural economics, marketing, and agribusiness, including supply chain management and value addition.\n - Gain insights into agricultural extension services, government schemes, and policies aimed at supporting farmers and rural development. \n\n This quiz is designed to enhance your understanding of general agriculture concepts and principles. So, get ready to test your knowledge and delve into the fascinating world of agriculture, as shared in the comprehensive '\n A Competitive Book of Agriculture ' by Nemraj Sunda.",
+ "price": 100,
+ "rating": 4,
+ "bestSeller": true,
+ "language": ["English"],
+ "tests": [
+  ["Evolution & History", 120, 120],
+  ["General Agriculture", 120, 120],
+  ["Agronomy (Unit 1 - 5)", 120, 120],
+  ["Agronomy (Unit 6 - 28)", 120, 120],
+  ["Weed Science", 120, 120],
+  ["Soil Science", 120, 120],
+  ["Horticulture", 120, 120],
+  ["Entomology", 120, 120],
+  ["Plant Pathology", 120, 120],
+  ["Nematology", 120, 120],
+  ["Plant Breeding & Genetics", 120, 120],
+  ["Plant Physiology", 120, 120],
+  ["Extension", 120, 120],
+  ["Agricultural Economics", 120, 120],
+  ["Agricultural Statistics", 120, 120],
+  ["Animal Production", 120, 120],
+  ["Agricultural Enginnering", 120, 120],
+  ["Microbiology", 120, 120]
+ ]
 }
