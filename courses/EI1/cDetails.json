@@ -11,7 +11,7 @@
     "bestSeller": false,
     "language": ["English"],
     "tests": [
-        ["January 2023", 90, 45],
+        ["January 2023", 90, 0.5],
         ["February 2023", 90, 45],
         ["March 2023", 90, 45],
         ["April 2023", 90, 45],
