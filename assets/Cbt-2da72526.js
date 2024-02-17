@@ -1,0 +1,1 @@
+import{j as o,N as r}from"./index-7c985869.js";import{u as s}from"./appStore-8c924719.js";import"./index-03a03c3c.js";const n=()=>{const{login:t}=s();return t?"hi":o.jsx(r,{to:"/login"})};export{n as default};
