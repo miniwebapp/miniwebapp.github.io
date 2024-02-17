@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "interface": 1,
+        "eName": "ICAR-JRF",
+        "tName": "Plant Science",
+        "timeMinutes": 30,
+        "showAns": true,
+        "pdfpw": null,
+        "pdfUrl": "/examiner/sangram/0English.pdf",
+        "section": true,
+        "category": {
+            "list": [ ]
+        }
+    },
+   "quesAns":[{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0},{"t":4,"m":[ 4, -1],"a":0}]
+}
