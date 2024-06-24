@@ -1,1 +1,61 @@
-["A","D","A","A","A","A","A","A","A","A","A","A","A","A","A","A"]
+{
+    "meta": {
+        "interface": 1,
+        "eName": "ICAR-JRF",
+        "tName": "Plant Science",
+        "timeMinutes": 30,
+        "showAns": true,
+        "pdfpw":  null,
+        "pdfUrl": "/courses/EI1/AFO2012.pdf",
+        "section": true,
+        "category": {
+            "list": ["phy","chem","bio"],
+            "phy": [ 0, 1, 2, 3]
+        }
+    },
+
+    "quesAns": [
+    {
+        "q": "",
+        "t": 5,
+        "m": [ 4, 1],
+        "a": 0
+    },
+    {
+        "q": "",
+        "t": 5,
+        "m": [ 4, 1],
+        "a": 0
+    },
+    {
+        "q": "",
+        "t": 5,
+        "m": [ 4, 1],
+        "a": 0
+    },
+    {
+        "q": "",
+        "t": 5,
+        "m": [ 4, 1],
+        "a": 0
+    },
+    {
+        "q": "",
+        "t": 5,
+        "m": [ 4, 1],
+        "a": 0
+    },
+    {
+        "q": "",
+        "t": 5,
+        "m": [ 4, 1],
+        "a": 0
+    },
+    {
+        "q": "",
+        "t": 5,
+        "m": [ 4, 1],
+        "a": 0
+    }
+]
+}
